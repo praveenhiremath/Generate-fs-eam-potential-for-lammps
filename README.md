@@ -1,4 +1,4 @@
-# Creating EAM FS potential
+# Creating EAM FS potential for tungsten
 
 python3 version
 
