@@ -14,6 +14,14 @@ from math import *
 from decimal import Decimal
 from eam_formalism import *
 
+'''
+The code is for PhD research purposes
+
+Author: Praveenkumar Hiremath
+Email: praveenkumar.hiremath@mek.lth.se (Email at the University)
+       praveenkumar.hiremath2911@gmail.com (Private email)
+'''
+
 if os.path.exists("pair_interation_energies.dat"):
  os.remove("pair_interation_energies.dat")
 if os.path.exists("local_density.dat"):
