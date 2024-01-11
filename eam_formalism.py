@@ -1,6 +1,13 @@
 # -*- coding: utf-8 -*-
 from __future__ import division
 from math import *
+'''
+The code is for PhD research purposes
+
+Author: Praveenkumar Hiremath
+Email: praveenkumar.hiremath@mek.lth.se (Email at the University)
+       praveenkumar.hiremath2911@gmail.com (Private email)
+'''
 
 class EAM:
     def __init__(self,c,c0,c1,c2,B,b0,alpha,r):
